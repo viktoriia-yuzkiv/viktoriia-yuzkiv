@@ -1,8 +1,6 @@
-# Hi there, I'm Viktoriia
+## Hi there, I'm Viktoriia 👋
 
-I'm a data scientist with a knack for problem-solving and a love for technology. Currently pursuing my Master's degree in Data Science for Decision Making at Barcelona School of Economics, I thrive in leveraging data-driven insights to tackle complex challenges.
-
----
+I'm a data scientist with a knack for problem-solving and a love for technology. 
 
 ## 🚀 Skills & Expertise
 
